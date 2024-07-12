@@ -30,4 +30,5 @@ Etapas de execução do projeto.
   pip install -r requirements.txt
 ```
 
-3. Executar o arquivo principal main.py
+3. Executar o arquivo principal main.ipynb.
+- Obs: Para executar o arquivo é necessário ter interpretador de extensões ipynb, como jupyter-lab, google colab ou alguma extensão em sua IDE, que dê suporte para executar.
